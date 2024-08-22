@@ -55,7 +55,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/wilsonneander/wilsonneander/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wilsonneander/output/snake.svg" alt="Snake animation" />
 
 ###
 
