@@ -57,8 +57,7 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/wilsonneander/wilsonneander/output/snake.svg](https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
-
+<img src="![snake gif](https://github.com/wilsonneander/wilsonneander/blob/output/github-contribution-grid-snake.svg)"
 ###
 
 <div align="center">
