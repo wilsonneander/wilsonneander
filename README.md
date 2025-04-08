@@ -54,8 +54,8 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/wilsonneander/wilsonneander/blob/output/github-contribution-grid-snake-dark.svg)
-###
+
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/wilsonneander/count.svg?"  />
