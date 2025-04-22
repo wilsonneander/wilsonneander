@@ -1,64 +1,149 @@
-<h2 align="left">Desenvolvedor Full Stack com experiência na criação de interfaces web modernas e aplicações robustas. Atuo com foco em performance, qualidade de código e inova</h2>
+# Como personalizar o seu perfil no github!
 
-###
+## Introdução
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilsonneander&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wilsonneander&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Oie gente! Sejam bem vindos a mais um roteiro de vídeo do [meu canal](https://youtube.com/rafaellaballerini), eu sou a Rafaella Ballerini e hoje eu vou mostrar pra vocês como personalizar o seu perfil no github.
 
-###
+Caso você ainda não esteja familiarizado ou familizarizada com Git e Github, vou deixar aqui o [vídeo em que explico o que são essas duas tecnologias](https://www.youtube.com/watch?v=DqTITcMq68k) e o [vídeo de como utilizá-las](https://www.youtube.com/watch?v=UBAX-13g8OM).
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
-</div>
+Então vamos lá, hoje vou ensinar a deixar o perfil de vocês bem parecido com o [meu](https://github.com/rafaballerini) e também disponibilizar customizações adicionais que vocês ainda podem fazer.
 
-###
+![Meu perfil personalizado no Github](https://media.discordapp.net/attachments/831974152667398214/859101524118208543/unknown.png?width=1225&height=670)
 
-<div align="center">
-  <a href="https://mail.google.com/mail/u/3/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/wilson-neander/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## Configurações gerais do perfil
 
-###
+A primeira coisa que faremos é adicionar uma foto no nosso perfil que mostre quem somos. Vejo muita gente utilizar fotos de anime (eu mesma já fiz isso rs), por exemplo, mas eu recomendo tentar ou colocar uma foto de si ou algum desenho seu, que você tenha feito ou tenha direitos autorais sobre a imagem. 
 
-<div align="center">
-  <img height="250" src="https://i.imgur.com/YrvEdRo.jpeg"  />
-</div>
+Não é nem pelo fato dos direitos autorais em si, mas sim pela credibilidade que você irá passar para quem entrar no seu perfil.
 
-###
+Depois iremos configurar as informações do nosso perfil que aparecem no canto esquerdo, pois por mais que elas sejam padrão, grade parte das pessoas que forem olhar o seu perfil vão focar nessa parte, pois mostra de onde você trabalha, para qual empresa, qual seu email de contato e muito mais.
 
-<br clear="both">
+Para isso, clicamos em "Edit Profile" no canto esquerdo da nossa página de perfil:
 
+![Edit profile](https://media.discordapp.net/attachments/831974152667398214/859115292369616946/unknown.png)
 
+Em seguida, completaremos com as informações que acharmos necessárias para algum outro desenvolvedor ou mesmo um recrutador olhar e entender quem você é.
 
+Na bio por exemplo coloquei `Instrutora, desenvolvedora front-end e criadora de conteúdo de programação e tecnologia!`. Então você pode completar com seu cargo ou o que estuda.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/wilsonneander/count.svg?"  />
-</div>
+Abaixo você adiciona a empresa que trabalha atualmente, sua localização, email de contato, link da sua página web (caso tenha) e seu twitter.
 
-###
+Você pode notar também que existem algumas outras informações abaixo dessas, porém se referem às organizações da [nossa comunidade do discord](https://discord.gg/G9GPg5SA75) ou da empresa que trabalho.
+
+## Criação do repositório do perfil
+
+Agora vamos para o que interessa, que é a personalização do nosso perfil.
+
+Primeira coisa que fazemos é criar um repositório com o nome do nosso usuário no github. O meu por exemplo é [`rafaballerini`](https://github.com/rafaballerini/rafaballerini).
+
+Logo que você cria esse repositório já aparece uma mensagem do próprio github dizendo que ele é especial.
+
+![Repositório especial](https://media.discordapp.net/attachments/831974152667398214/859295509894529064/unknown.png)
+
+Deixe-o público e inicialize ele com o `README.md`.
+
+## O que é markdown e como funciona
+
+Como vocês perceberam a extensão desse arquivo é `.md`, o que indica que ele é escrito em markdown
+
+https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+
+## Escrevendo o básico
+
+## Github Stats e diferentes formatos para ele
+
+Github Stats
+https://github.com/anuraghazra/github-readme-stats
+
+## Badges das tecnologias
+
+https://devicon.dev/
+
+## Links para redes sociais
+
+https://dev.to/envoy_/150-badges-for-github-pnk
+
+## Gif
+
+https://picrew.me/image_maker/338224
+
+## Cobrinha
+
+https://www.instagram.com/p/CPjUBhXDNEE/
+
+## Exemplos de repositórios e outras ideias
+
+SIMBOLOS
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://dev.to/envoy_/150-badges-for-github-pnk
+
+https://github.com/abhisheknaiidu/awesome-github-profile-readme#code-mode-
+
+Youtube
+https://github.com/DenverCoder1/github-readme-youtube-stats#subscribers-badge
+
+Descritivo
+https://github.com/garimasingh128/garimasingh128
+https://github.com/Defcon27/Defcon27
+https://github.com/onimur/onimur
+https://github.com/Rishit-dagli/Rishit-dagli
+https://github.com/bornmay/bornmay
+https://github.com/PrincessAkira/PrincessAkira ANIME
+
+Tecnologias
+https://github.com/techytushar/techytushar
+
+Código
+https://github.com/anmol098/anmol098
+
+Arte própria
+https://github.com/stephenajulu/stephena
+julu
+https://github.com/DennisHartrampf/DennisHartrampf
+
+Gifs
+https://github.com/ari-hacks/ari-hacks
+https://github.com/Prince-Shivaram/Prince-Shivaram
+https://github.com/Shanu1515/Shanu1515
+
+Digitação
+https://github.com/CyrisXD/CyrisXD
+https://github.com/mmphego/mmphego
+
+Minimalistas
+https://github.com/caneco/
+https://github.com/pr2tik1/pr2tik1
+
+Ferramentas
+
+To do list
+https://github.com/abhisheknaiidu/todoist-readme
+
+Dev time
+https://github.com/athul/waka-readme
+
+Spotify
+https://github.com/kittinan/spotify-github-profile
+https://github.com/novatorem/novatorem
+
+Linkedin
+https://github.com/soroushchehresa/github-readme-linkedin
+
+Stackoverflow
+https://github.com/omidnikrah/github-readme-stackoverflow
+
+Dev Jokes
+https://github.com/ABSphreak/readme-jokes
+
+Trofeus
+https://github.com/ryo-ma/github-profile-trophy
+
+Twitter
+https://github.com/gazf/github-readme-twitter
+
+Meme aleatorio
+https://github.com/techytushar/random-memer
+
+Quotes
+https://github.com/PiyushSuthar/github-readme-quotes
+
