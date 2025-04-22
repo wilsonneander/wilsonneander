@@ -1,40 +1,63 @@
-<h1 align="center">Oii!! Eu sou o [Seu Nome] 👋</h1>
+# 👨‍💻 Wilson Neander
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-end;Apaixonado+por+tecnologia+💻;Bem-vindo+ao+meu+perfil+no+GitHub!" />
+**`Desenvolvedor Full Stack`**
+
+Me chamo **Wilson Neander**, sou apaixonado por tecnologia e desenvolvimento de soluções criativas. Tenho experiência com tecnologias de front-end e back-end, atuando na construção de aplicações modernas, responsivas e escaláveis. Compartilho conteúdos e projetos nas redes sociais com o objetivo de inspirar e ajudar outros devs em sua jornada.
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="Next.js" title="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="PHP" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img align="left" alt="Laravel" title="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
+<img align="left" alt="Tailwind" title="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+<img align="left" alt="SASS" title="SASS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=WilsonNeander&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonNeander&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 </p>
 
----
+<br/>
 
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=10&theme=radical"/>
-</div>
-
----
-
-### 🧠 Tecnologias que uso no dia a dia
-
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</div>
-
----
-
-### 🐍 Snake eat my contributions
-
-![snake gif](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 📫 Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-SeuNome-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEULINKEDIN/)](https://www.linkedin.com/in/SEULINKEDIN/)
-[![Gmail Badge](https://img.shields.io/badge/-SEUEMAIL@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEUEMAIL@gmail.com)](mailto:SEUEMAIL@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/wilson-neander/">
+    <img src="https://img.shields.io/badge/-Wilson%20Neander-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/neander.tech/">
+    <img src="https://img.shields.io/badge/-@neander.tech-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:wilsonneander22@gmail.com">
+    <img src="https://img.shields.io/badge/-wilsonneander22@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+</p>
