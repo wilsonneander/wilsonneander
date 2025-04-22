@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name's Wilson Neander and I'm a full stack developer, from Brazil.</h2>
+<h2 align="left">Desenvolvedor Full Stack com experiência na criação de interfaces web modernas e aplicações robustas. Atuo com foco em performance, qualidade de código e inova</h2>
 
 ###
 
